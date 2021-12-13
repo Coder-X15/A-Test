@@ -1,2 +1,1 @@
-# A-Test
-For teaching purposes
+Hello SAM!!!
